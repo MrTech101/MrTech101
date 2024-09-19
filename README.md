@@ -1,4 +1,5 @@
-# Hi, I'm Akshay Singh 👋
+<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrTech101.MrTech101" />
+# Hi, I'm Akshay Singh 👋  
 
 I'm a **Fullstack Developer** and **Cybersecurity Analyst** passionate about creating scalable, efficient, and secure applications. With a solid foundation in **Node.js**, **Python**, and related technologies, I build both frontend and backend systems that prioritize functionality and security. 
 
